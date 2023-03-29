@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Reducing_Dishes
+Bundle-SymbolicName: Reducing_Dishes
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Reducing.Dishes
+Bundle-RequiredExecutionEnvironment: JavaSE-18
